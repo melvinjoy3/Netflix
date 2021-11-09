@@ -1,0 +1,22 @@
+.NavBar{
+position: fixed;
+width:100%;
+height: 30px;
+top:0;
+padding:20px;
+display: flex;
+justify-content: space-between;
+background-color: #111;
+}
+
+.logo{
+    position:fixed;
+    width:7%;
+    left:1%;
+}
+
+.avatar{
+    position:fixed;
+    width:2%;
+    right:1%;
+}
